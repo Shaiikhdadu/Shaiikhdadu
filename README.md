@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Research in AI & Cyber Security
-- 🌱 I’m currently learning how to write Articles & Journals
+- 🌱 I’m currently writing Articles & Journals
 - 👯 I’m looking to collaborate on doing Research
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Anything
